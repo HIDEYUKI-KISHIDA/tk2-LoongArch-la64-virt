@@ -1,0 +1,8 @@
+*.o
+*.elf
+*.map
+build/
+
+kernel/sysdepend/cpu/la64/offset.h
+build/offset_vals.s
+build/.tkernel2.ok

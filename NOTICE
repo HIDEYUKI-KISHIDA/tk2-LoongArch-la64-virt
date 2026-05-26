@@ -1,0 +1,20 @@
+Third-Party Notices
+===================
+
+T-Kernel 2.0 (linked at build time when TK2=1)
+-----------------------------------------------
+  Product:  T-Kernel 2.0 Software Package
+  Rights:    Copyright (c) Ken Sakamura / TRON Forum
+  License:   T-License 2.2
+  Source:    https://github.com/tron-forum/tkernel_2
+  License text (reference): docs/TEF000-219-200401.pdf in the upstream tree
+
+  This LoongArch LA64 port is NOT an official TRON Forum board support package.
+
+Design specification (bundled copy in docs/spec/)
+---------------------------------------------------
+  TK2-LA64-SPEC Rev.6.2 — MIT (same author as port); see docs/spec/README.md
+
+Toolchain / QEMU (build-time and runtime, not shipped as binaries in this repo)
+--------------------------------------------------------------------------------
+  GCC loongarch64-linux-gnu, QEMU, GNU ld — respective upstream licenses.
